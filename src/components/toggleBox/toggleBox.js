@@ -13,7 +13,7 @@ class ToggleBox extends Component {
         return (
             <div className={this.props.correct ? 'mask mask-correct' : 'mask'}>
                 <div>
-                <div className="the-answer-is-incorr">{this.props.question}</div>
+                <div className="the-answer-is-incorr ontop">{this.props.question}</div>
                     {toggles}
                     <div className="the-answer-is-incorr">
                         {this.props.correct ? 'The answer is correct!' : 'The answer is incorrect.'}
