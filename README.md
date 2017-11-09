@@ -51,7 +51,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](#deployment) for more information.
 
-## How customize component
+## How to customize component
 
 Simply look at the JS file `src/static/data/togglesData.js`. Make your custom object similar to what is in sample file. 
 
