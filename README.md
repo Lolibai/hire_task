@@ -18,6 +18,11 @@ Read instructions below for using assets from JavaScript and HTML.
 
 You can, however, create more top-level directories.<br>
 They will not be included in the production build so you can use them for things like documentation.
+## Needed for start 
+
+### `yarn`
+
+Installs `node_modules` for running the project.
 
 ## Available Scripts
 
